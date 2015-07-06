@@ -62,7 +62,7 @@ At the core of Shipyard is the API.  The API is used to manage everything in the
 # Login
 <a name="auth-login"></a>
 ## POST /auth/login
-ehis will return an authorization token.  This is not the same as a service key.  Authorization tokens are used for user login not services.
+This will return an authorization token.  This is not the same as a service key.  Authorization tokens are used for user login not services.
 
 Request
 
